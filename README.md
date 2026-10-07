@@ -34,5 +34,10 @@
 </tr>
 </table>
 
+
+### 🔗 Profiles & Contacts / Профили и контакты
+* [![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=TA-ngpgAAAAJ&hl)
+* [![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Artyom-Shinkevich)
+
 ---
 
