@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**temaSW/temaSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Artyom Shinkevich
+**PhD Student TUSUR** (Tomsk State University of Control Systems and Radioelectronics)
+
+
+### 🔬 Research Interests
+*   5G/6G Networks
+*   Multiuser MIMO Systems (MU-MIMO)
+*   Rate-Splitting Multiple Access (RSMA)
+*   Low-Density Pariry Check codes (LDPC)
+
+</td>
+<td width="50%" valign="top">
+
+## Я Артём Шинкевич
+**Аспирант ТУСУР** (Томский государственный университет систем управления и радиоэлектроники)
+
+### 🔬 Научные интересы
+*   Сети 5G/6G
+*   Многопользовательские системы MIMO (MU-MIMO)
+*   Прекодирование и диаграммообразование
+*   Множественный доступ с разделением по скорости (RSMA)
+*   Низкоплотностные коды (LDPC)
+
+
+</td>
+</tr>
+</table>
+
+---
+
