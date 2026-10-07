@@ -34,11 +34,43 @@
 </tr>
 </table>
 
+### 🛠 Tools & Technologies / Инструменты и технологии
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+       alt="MATLAB" title="MATLAB" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/latex/008080"
+       alt="LaTeX" title="LaTeX" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/markdown/8A8A8A"
+       alt="Markdown" title="Markdown" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandoc/8A8A8A"
+       alt="Pandoc" title="Pandoc" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032"
+       alt="Git" title="Git" width="40" height="40" />
+</p>
 
 ### 🔗 Profiles & Contacts / Профили и контакты
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TA-ngpgAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Artyom-Shinkevich)
-
----
-
+<p>
+  <a href="https://scholar.google.com/citations?user=TA-ngpgAAAAJ&hl=en">
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4"
+         alt="Google Scholar" title="Google Scholar"
+         width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://www.researchgate.net/profile/Artyom-Shinkevich">
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB"
+         alt="ResearchGate" title="ResearchGate"
+         width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0000-0002-0174-9158">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39"
+         alt="ORCID" title="ORCID"
+         width="40" height="40">
+  </a>
+</p>
