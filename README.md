@@ -14,7 +14,7 @@
 *   5G/6G Networks
 *   Multiuser MIMO Systems (MU-MIMO)
 *   Rate-Splitting Multiple Access (RSMA)
-*   Low-Density Pariry Check codes (LDPC)
+*   Low-Density Parity Check codes (LDPC)
 
 </td>
 <td width="50%" valign="top">
