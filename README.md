@@ -36,8 +36,9 @@
 
 
 ### 🔗 Profiles & Contacts / Профили и контакты
-* [![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=TA-ngpgAAAAJ&hl)
-* [![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Artyom-Shinkevich)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TA-ngpgAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Artyom-Shinkevich)
 
 ---
 
